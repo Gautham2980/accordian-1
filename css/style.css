@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.active{
+    display:none;
+   
+}
+
+.accord{
+    border: 3px solid rgb(215, 30, 30);
+    width: 60%;
+    /* height: 10vh; */
+    background-color: rgb(138, 233, 233);
+    padding: 20px;
+    margin: 5px;
+    
+}
+ 
+ .rotate{
+    transform:rotate(180deg);
+    
+      
+} 
+i{
+    color: rgb(210, 64, 144);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
